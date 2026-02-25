@@ -13,7 +13,7 @@ authors:
 identifiers:
   - type: doi
     value: "ADD PREPRINT LINK HERE"
-    description: "Paper on finding Lyapunov Certificates for systems on mixed Euclidean-torus spaces."
+    description: "Paper on Construction of Lyapunov Certificates for Oscillatory Systems."
 
 repository-code: "https://github.com/Swap-Tripathi/V-SOS-hybrid/"
 
