@@ -3,7 +3,9 @@ cvx_clear;
 
 % Swing-up control for pendulum on cart
 
-example=16;                          % 16 for pendulum with fixed cart, 17 for moving cart.
+examplenumber=5;                    % 5 for pendulum with fixed cart, 6 for moving cart.
+
+example=11+examplenumber;                          
 
 ns_omega = [1];                     % change according to system (representation-size vector)
 ns_theta = [2];                     % change according to system (representation-size vector)
