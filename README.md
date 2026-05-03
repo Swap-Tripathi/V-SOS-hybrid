@@ -3,4 +3,4 @@ A 'CVX-MOSEK'-based MATLAB program for certifying almost global stability of osc
 
 Example numbers are as in the preprint https://www.preprints.org/manuscript/202602.1723
 
-Run the driver.m file from any of the folders and change example=<..example number from the preprint..>
+Run the driver.m file from any of the folders and change examplenumber=<..example number from the preprint..>
