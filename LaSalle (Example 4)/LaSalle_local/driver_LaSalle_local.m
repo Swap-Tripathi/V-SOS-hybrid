@@ -3,7 +3,9 @@ cvx_clear;
 
 % example two second-order coupled oscillators
 
-example=14;                          % change example number
+examplenumber=4;                    % example number 4 from the preprints paper
+
+example=10+examplenumber;
 
 nf_omega = [1];                     % change according to system (representation-size vector)
 nf_theta = [1];                     % change according to system (representation-size vector)
